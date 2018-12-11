@@ -1,1 +1,1 @@
-"# my_first_blog" 
+First page in django
